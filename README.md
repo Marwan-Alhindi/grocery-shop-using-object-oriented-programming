@@ -1,4 +1,4 @@
-# object_oriented-Python
+# grocery_shop-Python
 """
 Student Name: Mrwan Alhandi
 Student ID: 3969393
